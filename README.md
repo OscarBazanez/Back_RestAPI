@@ -32,13 +32,14 @@ Para poder hacer uso de este repositorio tendrás que cumplir los siguientes req
 Usar en la consola el comando
 - npm start
 Ahora podrás hacer uso de la API, existen dos maneras de hacer uso de ella.
-1- Opción 1
+- **Opción 1**
 - Ingresar en la carpeta Doc en donde podrás encontrar un archivo (Rest API bec.postman_collection) que tendrás que importar a tu Postman. 
 - Al tenerlo ya importado solo quedaría configurar el “serverPath” y su configuración es la siguiente.
 - VARIABLE: serverPath
 - INITIAL VALUE: localhost:8090
 - CURRENT VALUE: localhost:8090
-2- Opción 2
+
+- **Opción 2**
 Para acceder a los respectivos endpoint deseados tendrás que hacer uso de la siguiente información.
 ###### Health   (Nos ayudara a verificar si el servidor está en línea y otros datos)
 -	GET	localhost:8090/apis/sps/helloworld/v1/health
