@@ -25,6 +25,8 @@ Para poder hacer uso de este repositorio tendrás que cumplir los siguientes req
 - URL: [nodemon](https://www.npmjs.com/package/nodemon).
 - Comando:  npm i passport
 - URL: [passport](https://www.npmjs.com/package/passport).
+- Comando:  npm i express-group-routes
+- URL: [passport](https://www.npmjs.com/package/express-group-routes/v/1.1.0).
 
 ## ¿Como usar la REST API?
 Usar en la consola el comando
