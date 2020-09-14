@@ -3,6 +3,7 @@ Es un back en donde cualquier persona puede solicitar todas las películas, crea
 ## Instalación
 Para poder hacer uso de este repositorio tendrás que cumplir los siguientes requerimientos:
 - Tener instalado Node JS
+- Tener instalado MongoDB
 - Verificar si está funcionando correctamente el comando npm para instalar las respectivas dependencias.
 ## Dependencias
 - Comando: npm install express
